@@ -1,2 +1,3 @@
-a = input()
-print(a)
+def showmessage:
+  print(a)
+ 
