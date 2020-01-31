@@ -1,4 +1,6 @@
 a = input()
-def showmessage:
-  print(a)
+def showmessage(str):
+  print(str)
+
+showmessage(a)
  
